@@ -76,6 +76,7 @@ Not quite. There is a final decision to make, the big one. Do they want to:
 OR
 <hr>
 2. re-invest in more powerful machines, thus converting their sub-crypto back to in-game currency, and take risks missing out on a reasonable price point for selling those juicy ERCs.
+<br>
 
 ![Grid Chain Games | Convert Credit & Token UI](https://github.com/ATrnd/GCG_GRIND/blob/main/_img/GCG_grind_convert_credit_UI_0.1.jpg?raw=true)
 
