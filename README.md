@@ -26,6 +26,18 @@ If we'd had a background story (which we don't), I'd say we're playing the role 
 
 ![Grid Chain Games | Grind Hack$ UI](https://github.com/ATrnd/GCG_GRIND/blob/main/_img/GCG_grind_hack$_0.1.jpg?raw=true)
 
+### Features:
+1. Crypto wallet: connection request simulation
+2. Crypto wallet connection options: cancel, connect
+3. Hack dollars function
+4. Crypto wallet: signature request simulation
+5. Crypto wallet signature options: cancel, sign
+
+### Progress: Completed
+*Demo URL*: [Grid Chain Games Grind | Hack$ Demo](https://atrnd.github.io/GCG_GRIND_demo/mods/hacks_mod/index.html)
+
+<hr>
+
 ## The problem of spending:
 
 We're pretty good now, right? We have all the money we need, and we can claim it forever and stack it in our almost limitless unit.
@@ -90,11 +102,8 @@ On the other hand, structures can be re-used, tweaked, and implemented in many w
 So, all these seemingly rough sketches of concepts & ideas may turn out to be useful in many applications. Just the way it works in mathematics, some formulas are there, waiting to be discovered in another field of science.
 And all this is just the beginning...
 
-*The show starts on July 8.*
-
 ### Special thanks to:
 **Eric S. Raymond** for the drive, keeps me pushing my limits.<br>
 **Jesse Schell**, for crafting lenses, I can use to see what truly matters.<br>
 **Joey DeBruin**, for the encouragement, support & inspiration for my Builds.<br>
-
 
