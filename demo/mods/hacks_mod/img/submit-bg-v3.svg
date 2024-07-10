@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 161 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.75,0,0,0.75,-0.504464,-278.875)">
+        <g id="submit_bg_v1" transform="matrix(0.381227,0,0,1.58911,0.672619,371.833)">
+            <rect x="0" y="0" width="561.345" height="67.333" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="561.345" height="67.333"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(7.2902,0,0,0.874459,-39323.3,-201.126)">
+                    <path d="M5471,230L5394,230L5394,289.009L5402.99,307L5471,307L5471,230Z"/>
+                    <path d="M5471,230L5394,230L5394,289.009L5402.99,307L5471,307L5471,230ZM5470.52,230.96L5470.52,306.041C5470.52,306.04 5403.19,306.04 5403.19,306.04C5403.19,306.04 5394.48,288.612 5394.48,288.612C5394.48,288.612 5394.48,230.959 5394.48,230.959C5394.48,230.96 5470.52,230.96 5470.52,230.96L5470.52,230.96Z"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
