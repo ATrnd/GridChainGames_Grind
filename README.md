@@ -48,6 +48,17 @@ Hell yeah, after all, we're computer geeks, aren't we? Of course, there is no ar
 ![Grid Chain Games | Grind Machine UI](https://github.com/ATrnd/GCG_GRIND/blob/main/_img/GCG_grind_machine_UI_0.1.jpg?raw=true)
 ![Grid Chain Games | Grind Machine Store UI](https://github.com/ATrnd/GCG_GRIND/blob/main/_img/GCG_grind_machine-store_UI_0.1.jpg?raw=true)
 
+### Features:
+1. Grind Hack$ UI features +
+2. Machine UI
+2. Machine Store UI
+3. Machine Element Selection
+4. Machine Upgrades
+
+### Progress: Completed
+*Demo URL*: [Grid Chain Games Grind | Machine Store Demo](https://atrnd.github.io/GCG_GRIND_demo/mods/store_mod/index.html)
+<hr>
+
 ## The problem of complexity:
 
 Well, we know how to make money, hitting "Hack$" hard, and we bought all the possible parts of our "letter-driven" machines.
@@ -59,6 +70,9 @@ Okay, all this leads us to the obvious question: What exactly do machines do whe
 
 ![Grid Chain Games | Grind Energy UI](https://github.com/ATrnd/GCG_GRIND/blob/main/_img/GCG_grind_energy_UI_0.1.jpg?raw=true)
 ![Grid Chain Games | Grind Energy Store UI](https://github.com/ATrnd/GCG_GRIND/blob/main/_img/GCG_grind_energy_store_UI_0.1.jpg?raw=true)
+
+### Progress: Under construction
+<hr>
 
 ## The problem of (in-game) value:
 
