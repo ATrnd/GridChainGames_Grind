@@ -49,7 +49,7 @@ Hell yeah, after all, we're computer geeks, aren't we? Of course, there is no ar
 ![Grid Chain Games | Grind Machine Store UI](https://github.com/ATrnd/GCG_GRIND/blob/main/_img/GCG_grind_machine-store_UI_0.1.jpg?raw=true)
 
 ### Features:
-1. Grind Hack$ UI features +
+1. Hack$ UI features +
 2. Machine UI
 2. Machine Store UI
 3. Machine Element Selection
@@ -71,7 +71,15 @@ Okay, all this leads us to the obvious question: What exactly do machines do whe
 ![Grid Chain Games | Grind Energy UI](https://github.com/ATrnd/GCG_GRIND/blob/main/_img/GCG_grind_energy_UI_0.1.jpg?raw=true)
 ![Grid Chain Games | Grind Energy Store UI](https://github.com/ATrnd/GCG_GRIND/blob/main/_img/GCG_grind_energy_store_UI_0.1.jpg?raw=true)
 
-### Progress: Under construction
+### Features:
+1. Hack$ UI features +
+1. Machine UI features +
+2. Energy Store UI
+3. Energy Type Selection
+4. Energy Upgrades
+
+### Progress: Completed
+*Demo URL*: [Grid Chain Games Grind | Energy Demo](https://atrnd.github.io/GCG_GRIND_demo/mods/energy_mod/index.html)
 <hr>
 
 ## The problem of (in-game) value:
