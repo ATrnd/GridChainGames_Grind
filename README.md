@@ -79,7 +79,7 @@ Okay, all this leads us to the obvious question: What exactly do machines do whe
 4. Energy Upgrades
 
 ### Progress: Completed
-*Demo URL*: [Grid Chain Games Grind | Energy Demo](https://atrnd.github.io/GCG_GRIND_demo/mods/energy_mod/index.html)
+*Demo URL*: [Grid Chain Games Grind | Energy Store Demo](https://atrnd.github.io/GCG_GRIND_demo/mods/energy_mod/index.html)
 <hr>
 
 ## The problem of (in-game) value:
