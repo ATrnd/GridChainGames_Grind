@@ -51,9 +51,9 @@ Hell yeah, after all, we're computer geeks, aren't we? Of course, there is no ar
 ### Features:
 1. Hack$ UI features +
 2. Machine UI
-2. Machine Store UI
-3. Machine Element Selection
-4. Machine Upgrades
+3. Machine Store UI
+4. Machine Element Selection
+5. Machine Upgrades
 
 ### Progress: Completed
 *Demo URL*: [Grid Chain Games Grind | Machine Store Demo](https://atrnd.github.io/GCG_GRIND_demo/mods/store_mod/index.html)
@@ -73,10 +73,10 @@ Okay, all this leads us to the obvious question: What exactly do machines do whe
 
 ### Features:
 1. Hack$ UI features +
-1. Machine UI features +
-2. Energy Store UI
-3. Energy Type Selection
-4. Energy Upgrades
+2. Machine UI features +
+3. Energy Store UI
+4. Energy Type Selection
+5. Energy Upgrades
 
 ### Progress: Completed
 *Demo URL*: [Grid Chain Games Grind | Energy Store Demo](https://atrnd.github.io/GCG_GRIND_demo/mods/energy_mod/index.html)
@@ -100,6 +100,17 @@ But we're not finished yet. We must convert that value to something meaningful: 
 
 ![Grid Chain Games | Grind UI](https://github.com/ATrnd/GCG_GRIND/blob/main/_img/GCG_grind_UI_0.1.jpg?raw=true)
 
+### Features:
+1. Hack$ UI features +
+2. Machine UI features +
+3. Energy UI features +
+4. Virtual Crypto Selection Config
+5. Virtual Crypto Grind
+6. Virtual Crypto Claim
+
+### Progress: Completed
+*Demo URL*: [Grid Chain Games Grind | Grind Demo](https://atrnd.github.io/GCG_GRIND_demo/mods/grind_mod/index.html)
+
 ## The problem of (real world) value:
 
 Our users mastered the game, they know how to Hack, purchased fancy (and somewhat abstract) machines, were forced into paying for energy (and felt bad about it), configured their machines to create in-game value for them in the shape of (you guessed it) abstract letters such as x,y,z representing some form of sub-crypto currency and now they're hungry for the next phase which where all the hard work pays off, and finally converts back to IRL world value right?
@@ -113,6 +124,9 @@ OR
 <br>
 
 ![Grid Chain Games | Convert Credit & Token UI](https://github.com/ATrnd/GCG_GRIND/blob/main/_img/GCG_grind_convert_credit_UI_0.1.jpg?raw=true)
+
+### Progress: Under construction
+<hr>
 
 ## But why?
 
