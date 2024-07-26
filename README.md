@@ -129,7 +129,7 @@ OR
 1. Hack$ UI features +
 2. Machine UI features +
 3. Energy UI features +
-4. Virtual Crypto Selection Config +
+4. Virtual Crypto UI features +
 5. Trade Virtual Crypto
 5. Trade Tokens
 
