@@ -125,8 +125,16 @@ OR
 
 ![Grid Chain Games | Convert Credit & Token UI](https://github.com/ATrnd/GCG_GRIND/blob/main/_img/GCG_grind_convert_credit_UI_0.1.jpg?raw=true)
 
-### Progress: Under construction
-<hr>
+### Features:
+1. Hack$ UI features +
+2. Machine UI features +
+3. Energy UI features +
+4. Virtual Crypto Selection Config +
+5. Trade Virtual Crypto
+5. Trade Tokens
+
+### Progress: Completed
+*Demo URL*: [Grid Chain Games Grind | Token Demo](https://atrnd.github.io/GCG_GRIND_demo/mods/token_mod/index.html)
 
 ## But why?
 
